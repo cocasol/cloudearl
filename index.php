@@ -22,7 +22,7 @@
 			   	<div class="row align-items-center position-relative">
 			      	<div class="col-lg-2 col-sm-3 col-5">
 			        	<div class="logo">
-			        		<a href="index.php"><img src="assets/img/logo.png" class="main-logo" alt=""> <img src="assets/img/sticky-logo.png" class="sticky-logo" alt=""></a>
+			        		<a href="index.php"><img src="assets/img/logo.jpg" class="main-logo" alt=""> <img src="assets/img/sticky-logo.png" class="sticky-logo" alt=""></a>
 			        	</div>
 			      	</div>
 			      	<div class="col-lg-10 col-sm-9 col-7 d-flex align-items-center justify-content-end position-static">
