@@ -1,0 +1,17 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.justify {
+	text-align: justify;
+}
+
+h3 {
+    font-size: 17px !important;
+}
+
+.text-transform-none {
+	text-transform: unset !important;
+	color: #FFFFFF !important;
+	font-size: 24px !important;
+}
